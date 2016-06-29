@@ -71,7 +71,7 @@
   }
 
 	a:hover {
-		color: #00c1ef;
+		color: #DB7F67;
 	}
 
 	a, a:hover, a:active, a:focus {
@@ -189,7 +189,7 @@
   }
 
   .menu li a.bordered:hover {
-    border: 1px solid #00c1ef;
+    border: 1px solid #DB7F67;
   }
 
   .wrapper {
@@ -224,7 +224,7 @@
     width: auto;
     display: block;
     padding: 10px;
-    background: #00c1ef;
+    background: #DB7F67;
     border-radius: 2px;
     margin-bottom: 10px;
   }
